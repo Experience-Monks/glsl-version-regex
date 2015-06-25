@@ -1,0 +1,44 @@
+{
+  "name": "glsl-version-regex",
+  "version": "1.0.0",
+  "description": "a regex for GLSL version statements",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "keywords": [
+    "regex",
+    "version",
+    "glsl",
+    "glslify",
+    "stackgl",
+    "gl",
+    "webgl",
+    "webgl2",
+    "es",
+    "300",
+    "100",
+    "shader",
+    "webgl",
+    "webgl2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/glsl-version-regex.git"
+  },
+  "homepage": "https://github.com/Jam3/glsl-version-regex",
+  "bugs": {
+    "url": "https://github.com/Jam3/glsl-version-regex/issues"
+  }
+}
