@@ -24,7 +24,7 @@ version.exec('#version 300 es // comment')
 
 [![NPM](https://nodei.co/npm/glsl-version-regex.png)](https://www.npmjs.com/package/glsl-version-regex)
 
-#### `regex = require('glsl-version-regex')
+#### `regex = require('glsl-version-regex')`
 
 Requiring this module will provide you with the regex.
 
